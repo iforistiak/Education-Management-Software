@@ -1,0 +1,6 @@
+{
+  "name": "JBD - IT Education Management Software",
+  "description": "JBD আইটি এডুকেশন ম্যানেজমেন্ট সফটওয়্যার ও ডাইনামিক স্কুল ওয়েবসাইট। ভর্তি, ফলাফল, ডিজিটাল হাজিরা ও হিসাব ব্যবস্থাপনার সম্পূর্ণ ডিজিটাল সমাধান।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
